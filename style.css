@@ -235,13 +235,14 @@ html {
     border: none;
     outline: none;
     display: inline-block;
-
+    
 }
+
 .cv-container{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 20px; /
+  margin-top: -1px; 
 }
 
 .interes {
